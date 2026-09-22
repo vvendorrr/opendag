@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/main.css">
     <script src="script.js" defer></script>
 </head>
 <body>
@@ -92,7 +92,7 @@
                     <div class="project-list" id="project-list">
                         <article class="project">
                             <div class="project-thumb">
-                                <img class="project-image" src="Useless%20Box.png" alt="Useless Box project">
+                                <img class="project-image" src="img/Useless%20Box.png" alt="Useless Box project">
                             </div>
                             <div>
                                 <h3>Useless Box</h3>
@@ -101,7 +101,7 @@
                         </article>
                         <article class="project">
                             <div class="project-thumb">
-                                <img class="project-image" src="Week%206%20Website.png" alt="Week 6 Website project">
+                                <img class="project-image" src="img/Week%206%20Website.png" alt="Week 6 Website project">
                             </div>
                             <div>
                                 <h3>BoodschApp</h3>
